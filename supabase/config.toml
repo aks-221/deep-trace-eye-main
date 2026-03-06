@@ -1,0 +1,10 @@
+project_id = "waashvsgkaordpgcknnf"
+
+[functions.aml-analyze]
+verify_jwt = true
+
+[functions.aml-score-transaction]
+verify_jwt = true
+
+[functions.etherscan-lookup]
+verify_jwt = true
